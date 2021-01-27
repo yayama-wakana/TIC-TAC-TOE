@@ -1,0 +1,21 @@
+.Box {
+  width: 60px;
+  height: 120px;
+  display:table-cell;
+  border: 1px solid orangered;
+}
+
+.sample {
+	font-size:5em;
+  text-align: center;
+	line-height:1.5em;
+	font-weight:bold;
+	color: #FFF;
+	text-shadow: 
+		0 0 0.05em #F06292,
+		0 0 0.10em #F06292,
+		0 0 0.15em #F06292,
+		0 0 0.30em #F06292;
+	filter: saturate(80%);
+}
+
